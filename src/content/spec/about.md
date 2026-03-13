@@ -1,3 +1,3 @@
 # About
 
-G. Chen 一时兴起搞的。
+This is G. Chen's Blog.
